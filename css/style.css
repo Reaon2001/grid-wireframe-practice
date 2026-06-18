@@ -74,13 +74,11 @@ article {
 
 .main-content h2 {
     display: none;
-    /*
     text-align: center;
     width: 100%;
     color: white;
     margin-top: 5px;
     margin-bottom: 5px;
-    */
 }
 
 .column {
